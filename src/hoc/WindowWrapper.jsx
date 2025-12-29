@@ -53,7 +53,7 @@ const WindowWrapper = (Component, windowKey) => {
 
     Wrapped.displayName = `WindowWrapper(${Component.displayName || Component.name || "Component"})`;
     
-    return Wrapped
+    return Wrapped;
 }
  
 export default WindowWrapper;
