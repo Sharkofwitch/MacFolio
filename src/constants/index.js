@@ -81,7 +81,7 @@ const blogPosts = [
     title:
       "Einführung in die Objektorientierte Programmierung",
     image: "/images/blog4.png",
-    link: "informatikblog8.wordpress.com/2023/12/22/einfuhrung-in-die-objektorientierte-programmierung/",
+    link: "https://informatikblog8.wordpress.com/2023/12/22/einfuhrung-in-die-objektorientierte-programmierung/",
   },
 ];
 
@@ -166,19 +166,19 @@ const photosLinks = [
 const gallery = [
   {
     id: 1,
-    img: "/images/gal1.png",
-  },
-  {
-    id: 2,
     img: "/images/gal2.png",
   },
   {
+    id: 2,
+    img: "/images/gal1.png",
+  },
+  {
     id: 3,
-    img: "/images/gal3.png",
+    img: "/images/gal6.png",
   },
   {
     id: 4,
-    img: "/images/gal4.png",
+    img: "/images/gal5.png",
   },
 ];
 
